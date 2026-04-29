@@ -1,0 +1,54 @@
+customerName,saleDate,unitsOrdered,unitPrice,totalValue,contactInfo,orderType,salesRep,region
+T&L Parts Distribution,1/5/2026,10,450,4500,thelma@tlparts.com,newSale,A.Reynolds,West
+T&L Parts Distribution,2/16/2026,4,450,1800,louise@tlparts.com,replacement,A.Reynolds,West
+T&L Parts Distribution,3/18/2026,3,450,1350,thelma@tlparts.com,replacement,A.Reynolds,West
+Mid Market District Authority,1/10/2026,20,500,10000,ops@mmda.org,newSale,K.Patel,West
+Mid Market District Authority,3/8/2026,80,480,38400,procurement@mmda.org,expansion,K.Patel,West
+Tyrell Enterprise Corporation,1/7/2026,10,520,5200,ops@tyrell.com,newSale,S.Chen,National
+Tyrell Enterprise Corporation,2/12/2026,40,500,20000,ops@tyrell.com,expansion,S.Chen,National
+Tyrell Enterprise Corporation,3/5/2026,50,490,24500,ops@tyrell.com,expansion,S.Chen,National
+Tyrell Enterprise Corporation,4/1/2026,900,450,405000,ops@tyrell.com,expansion,S.Chen,National
+Apex Fleet Services,1/15/2026,25,475,11875,ops@apexfleet.com,newSale,J.Morris,West
+Blue Horizon Logistics,2/18/2026,18,480,8640,contact@bluehorizon.com,newSale,J.Morris,West
+Canyon State Transport,2/10/2026,22,470,10340,ops@canyonstate.com,newSale,A.Reynolds,West
+Delta Freight Co,2/25/2026,30,460,13800,ops@deltafreight.com,newSale,A.Reynolds,Central
+Evergreen Hauling,3/5/2026,12,480,5760,ops@evergreen.com,newSale,J.Morris,West
+Frontier Delivery Group,3/12/2026,20,475,9500,ops@frontier.com,newSale,K.Patel,Central
+Golden Route Carriers,1/28/2026,40,460,18400,ops@goldenroute.com,newSale,S.Chen,East
+Highline Transit Solutions,1/30/2026,35,455,15925,ops@highline.com,newSale,S.Chen,West
+Ironclad Shipping,2/20/2026,28,470,13160,ops@ironclad.com,newSale,K.Patel,East
+Jetstream Logistics,3/8/2026,32,465,14880,ops@jetstream.com,newSale,K.Patel,West
+Keystone Freight Lines,4/12/2026,15,480,7200,ops@keystone.com,newSale,A.Reynolds,Central
+Lighthouse Transport,2/22/2026,20,470,9400,ops@lighthouse.com,newSale,S.Chen,East
+MetroLink Haulers,3/25/2026,18,465,8370,ops@metrolink.com,newSale,J.Morris,Central
+Northstar Delivery,4/10/2026,22,480,10560,ops@northstar.com,newSale,J.Morris,West
+Oakridge Fleet Services,1/20/2026,16,460,7360,ops@oakridge.com,newSale,A.Reynolds,West
+Pioneer Cargo Systems,2/28/2026,25,470,11750,ops@pioneer.com,newSale,K.Patel,Central
+QuickRoute Logistics,3/7/2026,14,480,6720,ops@quickroute.com,newSale,K.Patel,West
+RedRock Transport,3/30/2026,20,465,9300,ops@redrock.com,newSale,S.Chen,West
+Summit Freight Co,4/15/2026,18,475,8550,ops@summit.com,newSale,S.Chen,Central
+Timberline Hauling,2/15/2026,12,470,5640,ops@timberline.com,newSale,A.Reynolds,West
+Velocity Freight Systems,3/18/2026,26,465,12090,ops@velocity.com,newSale,K.Patel,East
+WestBridge Logistics,4/5/2026,30,460,13800,ops@westbridge.com,newSale,K.Patel,West
+Zenith Cargo Group,1/26/2026,24,455,10920,ops@zenith.com,newSale,S.Chen,East
+Atlas Fleet Management,2/23/2026,28,470,13160,ops@atlasfleet.com,newSale,J.Morris,Central
+Beacon Transport Services,3/10/2026,22,475,10450,ops@beacon.com,newSale,J.Morris,West
+Cobalt Logistics,4/18/2026,16,480,7680,ops@cobalt.com,newSale,A.Reynolds,Central
+Driftwood Delivery Co,2/14/2026,14,470,6580,ops@driftwood.com,newSale,A.Reynolds,West
+Eagle Eye Transport,3/28/2026,20,480,9600,ops@eagleeye.com,newSale,S.Chen,West
+Falcon Freight Systems,4/3/2026,24,470,11280,ops@falcon.com,newSale,K.Patel,Central
+Granite State Hauling,1/29/2026,18,460,8280,ops@granite.com,newSale,K.Patel,East
+HarborLine Logistics,2/26/2026,20,470,9400,ops@harborline.com,newSale,J.Morris,East
+Interstate Cargo Co,3/20/2026,28,465,13020,ops@interstate.com,newSale,S.Chen,Central
+Juniper Transport Group,4/14/2026,16,480,7680,ops@juniper.com,newSale,S.Chen,West
+Kodiak Freight Lines,2/12/2026,18,470,8460,ops@kodiak.com,newSale,A.Reynolds,West
+Liberty Logistics Co,3/24/2026,22,475,10450,ops@liberty.com,newSale,K.Patel,Central
+Mountain Pass Carriers,4/6/2026,14,480,6720,ops@mountainpass.com,newSale,J.Morris,West
+Noble Transport Systems,1/18/2026,12,460,5520,ops@noble.com,newSale,A.Reynolds,East
+Onyx Delivery Group,2/27/2026,20,470,9400,ops@onyx.com,newSale,K.Patel,Central
+Prairie State Logistics,3/30/2026,18,465,8370,ops@prairie.com,newSale,S.Chen,Central
+Quantum Freight Co,4/19/2026,26,480,12480,ops@quantum.com,newSale,S.Chen,West
+Riverbend Transport,2/15/2026,22,470,10340,ops@riverbend.com,newSale,J.Morris,West
+Silverline Haulers,3/12/2026,24,475,11400,ops@silverline.com,newSale,K.Patel,Central
+Trailhead Logistics,4/8/2026,20,480,9600,ops@trailhead.com,newSale,A.Reynolds,West
+UrbanGrid Transport,1/30/2026,16,460,7360,ops@urbangrid.com,newSale,J.Morris,Central
