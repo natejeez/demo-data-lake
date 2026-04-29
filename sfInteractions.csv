@@ -1,0 +1,133 @@
+customerName,startDate,customerContact,interactionType,info
+T&L Parts Distribution,1/10/2026,thelma@tlparts.com,email,Installation scheduling confirmation
+T&L Parts Distribution,1/15/2026,louise@tlparts.com,siteVisit,installation; Technician Ramirez
+T&L Parts Distribution,1/18/2026,driver1@tlparts.com,supportTicket,Ticket 1001 - Camera not powering on
+T&L Parts Distribution,1/20/2026,driver2@tlparts.com,supportTicket,Ticket 1002 - Login issues
+T&L Parts Distribution,1/23/2026,driver1@tlparts.com,supportTicket,Ticket 1003 - Mount instability
+T&L Parts Distribution,1/27/2026,driver2@tlparts.com,supportTicket,Ticket 1004 - App crash
+T&L Parts Distribution,2/2/2026,thelma@tlparts.com,customerSentimentEval,6
+T&L Parts Distribution,2/5/2026,driver1@tlparts.com,supportTicket,Ticket 1005 - Device overheating
+T&L Parts Distribution,2/9/2026,driver2@tlparts.com,supportTicket,Ticket 1006 - Sync failure
+T&L Parts Distribution,2/15/2026,louise@tlparts.com,siteVisit,recall; Technician Nguyen
+T&L Parts Distribution,2/20/2026,driver1@tlparts.com,supportTicket,Ticket 1007 - Video lag
+T&L Parts Distribution,3/1/2026,driver2@tlparts.com,supportTicket,Ticket 1008 - Camera disconnecting
+T&L Parts Distribution,3/8/2026,driver1@tlparts.com,supportTicket,Ticket 1009 - GPS mismatch
+T&L Parts Distribution,3/12/2026,thelma@tlparts.com,email,Frustration with repeated recalls
+T&L Parts Distribution,3/18/2026,louise@tlparts.com,siteVisit,recall; Technician Patel
+T&L Parts Distribution,3/25/2026,driver2@tlparts.com,supportTicket,Ticket 1010 - Driver login reset
+T&L Parts Distribution,4/5/2026,louise@tlparts.com,customerSentimentEval,5
+T&L Parts Distribution,4/12/2026,driver1@tlparts.com,supportTicket,Ticket 1011 - Camera offline
+T&L Parts Distribution,4/18/2026,thelma@tlparts.com,email,Request for additional training
+Mid Market District Authority,1/12/2026,ops@mmda.org,siteVisit,installation; Technician Patel
+Mid Market District Authority,1/25/2026,admin@mmda.org,email,Initial rollout feedback
+Mid Market District Authority,2/5/2026,admin@mmda.org,customerSentimentEval,8
+Mid Market District Authority,2/20/2026,ops@mmda.org,supportTicket,Ticket 2001 - Fleet sync delay
+Mid Market District Authority,3/5/2026,procurement@mmda.org,email,Large order coordination
+Mid Market District Authority,3/10/2026,ops@mmda.org,siteVisit,installation; Technician Chen
+Mid Market District Authority,3/15/2026,ops@mmda.org,siteVisit,installation; Technician Singh
+Mid Market District Authority,3/18/2026,ops@mmda.org,supportTicket,Ticket 2002 - Bulk device activation
+Mid Market District Authority,3/25/2026,ops@mmda.org,supportTicket,Ticket 2003 - GPS discrepancies
+Mid Market District Authority,4/1/2026,admin@mmda.org,customerSentimentEval,9
+Mid Market District Authority,4/10/2026,ops@mmda.org,email,Performance reporting request
+Mid Market District Authority,4/20/2026,ops@mmda.org,supportTicket,Ticket 2004 - Data latency
+Tyrell Enterprise Corporation,1/8/2026,ops@tyrell.com,siteVisit,installation; Technician Blake
+Tyrell Enterprise Corporation,1/20/2026,analytics@tyrell.com,email,Initial performance evaluation
+Tyrell Enterprise Corporation,2/10/2026,ops@tyrell.com,siteVisit,installation; Technician Singh
+Tyrell Enterprise Corporation,2/14/2026,analytics@tyrell.com,email,Scaling deployment strategy
+Tyrell Enterprise Corporation,2/28/2026,ops@tyrell.com,customerSentimentEval,9
+Tyrell Enterprise Corporation,3/10/2026,ops@tyrell.com,siteVisit,installation; Technician Chen
+Tyrell Enterprise Corporation,3/20/2026,ops@tyrell.com,siteVisit,installation; Technician Singh
+Tyrell Enterprise Corporation,3/28/2026,analytics@tyrell.com,email,National rollout alignment
+Tyrell Enterprise Corporation,4/2/2026,ops@tyrell.com,email,900 unit rollout confirmation
+Tyrell Enterprise Corporation,4/10/2026,analytics@tyrell.com,customerSentimentEval,10
+Tyrell Enterprise Corporation,4/20/2026,ops@tyrell.com,siteVisit,installation; Technician Patel
+Apex Fleet Services,1/11/2026,ops@apexfleet.com,email,Initial onboarding inquiry
+Apex Fleet Services,1/25/2026,ops@apexfleet.com,siteVisit,installation; Technician Lopez
+Apex Fleet Services,2/3/2026,ops@apexfleet.com,customerSentimentEval,7
+Apex Fleet Services,3/10/2026,ops@apexfleet.com,supportTicket,Ticket 3001 - Camera calibration issue
+Apex Fleet Services,4/5/2026,ops@apexfleet.com,customerSentimentEval,8
+Blue Horizon Logistics,1/20/2026,contact@bluehorizon.com,email,Demo follow-up
+Blue Horizon Logistics,2/15/2026,contact@bluehorizon.com,siteVisit,installation; Technician Kim
+Blue Horizon Logistics,3/14/2026,contact@bluehorizon.com,supportTicket,Ticket 3102 - GPS lag
+Blue Horizon Logistics,4/10/2026,contact@bluehorizon.com,customerSentimentEval,7
+Canyon State Transport,2/8/2026,ops@canyonstate.com,siteVisit,installation; Technician Lopez
+Canyon State Transport,2/20/2026,ops@canyonstate.com,customerSentimentEval,8
+Canyon State Transport,3/15/2026,ops@canyonstate.com,email,Expansion inquiry
+Canyon State Transport,4/12/2026,ops@canyonstate.com,supportTicket,Ticket 3201 - Connectivity issue
+Delta Freight Co,2/22/2026,ops@deltafreight.com,customerSentimentEval,8
+Delta Freight Co,3/10/2026,ops@deltafreight.com,email,Weekly reporting request
+Delta Freight Co,4/8/2026,ops@deltafreight.com,supportTicket,Ticket 3301 - Login failure
+Evergreen Hauling,3/3/2026,ops@evergreen.com,email,Interest in expansion
+Evergreen Hauling,3/20/2026,ops@evergreen.com,customerSentimentEval,7
+Evergreen Hauling,4/18/2026,ops@evergreen.com,supportTicket,Ticket 3401 - Device reboot loop
+Frontier Delivery Group,3/18/2026,ops@frontier.com,supportTicket,Ticket 4110 - Camera calibration issue
+Frontier Delivery Group,4/10/2026,ops@frontier.com,email,Feature request submission
+Frontier Delivery Group,4/20/2026,ops@frontier.com,customerSentimentEval,8
+T&L Parts Distribution,1/10/2026,thelma@tlparts.com,email,Installation scheduling confirmation
+T&L Parts Distribution,1/15/2026,louise@tlparts.com,siteVisit,installation; Technician Ramirez
+T&L Parts Distribution,1/22/2026,driver1@tlparts.com,supportTicket,Ticket 1023 - Camera not powering on
+T&L Parts Distribution,1/25/2026,driver2@tlparts.com,supportTicket,Ticket 1029 - Unable to log into system
+T&L Parts Distribution,2/2/2026,thelma@tlparts.com,customerSentimentEval,6
+T&L Parts Distribution,2/10/2026,driver1@tlparts.com,supportTicket,Ticket 1101 - Device overheating
+T&L Parts Distribution,2/18/2026,louise@tlparts.com,siteVisit,recall; Technician Nguyen
+T&L Parts Distribution,3/1/2026,driver2@tlparts.com,supportTicket,Ticket 1199 - Camera disconnecting
+T&L Parts Distribution,3/12/2026,thelma@tlparts.com,email,Frustration with repeated recalls
+T&L Parts Distribution,4/5/2026,louise@tlparts.com,customerSentimentEval,5
+Mid Market District Authority,1/12/2026,ops@mmda.org,siteVisit,installation; Technician Patel
+Mid Market District Authority,2/5/2026,admin@mmda.org,customerSentimentEval,8
+Mid Market District Authority,3/10/2026,procurement@mmda.org,email,Order expansion coordination
+Mid Market District Authority,3/18/2026,ops@mmda.org,siteVisit,installation; Technician Chen
+Mid Market District Authority,3/25/2026,ops@mmda.org,supportTicket,Ticket 2101 - Fleet sync delay
+Mid Market District Authority,4/10/2026,admin@mmda.org,customerSentimentEval,9
+Tyrell Enterprise Corporation,1/8/2026,ops@tyrell.com,siteVisit,installation; Technician Blake
+Tyrell Enterprise Corporation,2/14/2026,analytics@tyrell.com,email,Scaling deployment strategy
+Tyrell Enterprise Corporation,2/28/2026,ops@tyrell.com,customerSentimentEval,9
+Tyrell Enterprise Corporation,3/20/2026,ops@tyrell.com,siteVisit,installation; Technician Singh
+Tyrell Enterprise Corporation,4/2/2026,ops@tyrell.com,email,900 unit rollout confirmation
+Tyrell Enterprise Corporation,4/20/2026,analytics@tyrell.com,customerSentimentEval,10
+Apex Fleet Services,1/11/2026,ops@apexfleet.com,email,Initial onboarding inquiry
+Apex Fleet Services,2/3/2026,ops@apexfleet.com,customerSentimentEval,7
+Blue Horizon Logistics,1/20/2026,contact@bluehorizon.com,email,Demo follow-up
+Blue Horizon Logistics,3/14/2026,contact@bluehorizon.com,supportTicket,Ticket 3102 - GPS lag
+Canyon State Transport,2/8/2026,ops@canyonstate.com,siteVisit,installation; Technician Lopez
+Delta Freight Co,2/22/2026,ops@deltafreight.com,customerSentimentEval,8
+Evergreen Hauling,3/3/2026,ops@evergreen.com,email,Interest in expansion
+Frontier Delivery Group,3/18/2026,ops@frontier.com,supportTicket,Ticket 4110 - Camera calibration issue
+Golden Route Carriers,4/1/2026,ops@goldenroute.com,customerSentimentEval,7
+Highline Transit Solutions,1/30/2026,ops@highline.com,siteVisit,installation; Technician Kim
+Ironclad Shipping,2/16/2026,ops@ironclad.com,email,Data export request
+Jetstream Logistics,3/7/2026,ops@jetstream.com,customerSentimentEval,8
+Keystone Freight Lines,4/11/2026,ops@keystone.com,supportTicket,Ticket 5120 - Login issues
+Lighthouse Transport,2/19/2026,ops@lighthouse.com,siteVisit,installation; Technician Davis
+MetroLink Haulers,3/22/2026,ops@metrolink.com,email,Weekly usage summary question
+Northstar Delivery,4/15/2026,ops@northstar.com,customerSentimentEval,9
+Oakridge Fleet Services,1/18/2026,ops@oakridge.com,email,Initial inquiry
+Pioneer Cargo Systems,2/27/2026,ops@pioneer.com,supportTicket,Ticket 6103 - Device reboot loop
+QuickRoute Logistics,3/5/2026,ops@quickroute.com,customerSentimentEval,8
+RedRock Transport,3/29/2026,ops@redrock.com,email,Expansion planning
+Summit Freight Co,4/12/2026,ops@summit.com,supportTicket,Ticket 7021 - Data sync delay
+Timberline Hauling,2/14/2026,ops@timberline.com,customerSentimentEval,7
+Velocity Freight Systems,3/17/2026,ops@velocity.com,email,Feature request submission
+WestBridge Logistics,4/9/2026,ops@westbridge.com,customerSentimentEval,8
+Zenith Cargo Group,1/25/2026,ops@zenith.com,siteVisit,installation; Technician Moore
+Atlas Fleet Management,2/21/2026,ops@atlasfleet.com,email,Integration support request
+Beacon Transport Services,3/8/2026,ops@beacon.com,customerSentimentEval,8
+Cobalt Logistics,4/18/2026,ops@cobalt.com,supportTicket,Ticket 8122 - Camera alignment issue
+Driftwood Delivery Co,2/11/2026,ops@driftwood.com,email,Support inquiry
+Eagle Eye Transport,3/26/2026,ops@eagleeye.com,customerSentimentEval,9
+Falcon Freight Systems,4/3/2026,ops@falcon.com,siteVisit,installation; Technician Young
+Granite State Hauling,1/28/2026,ops@granite.com,email,Demo scheduling
+HarborLine Logistics,2/24/2026,ops@harborline.com,customerSentimentEval,7
+Interstate Cargo Co,3/19/2026,ops@interstate.com,supportTicket,Ticket 9021 - Connectivity issue
+Juniper Transport Group,4/14/2026,ops@juniper.com,customerSentimentEval,8
+Kodiak Freight Lines,2/9/2026,ops@kodiak.com,email,Initial outreach
+Liberty Logistics Co,3/23/2026,ops@liberty.com,customerSentimentEval,9
+Mountain Pass Carriers,4/6/2026,ops@mountainpass.com,supportTicket,Ticket 10012 - Sensor failure
+Noble Transport Systems,1/17/2026,ops@noble.com,email,Inquiry about pricing
+Onyx Delivery Group,2/26/2026,ops@onyx.com,customerSentimentEval,8
+Prairie State Logistics,3/30/2026,ops@prairie.com,email,Quarterly review request
+Quantum Freight Co,4/19/2026,ops@quantum.com,customerSentimentEval,9
+Riverbend Transport,2/13/2026,ops@riverbend.com,siteVisit,installation; Technician Cruz
+Silverline Haulers,3/11/2026,ops@silverline.com,customerSentimentEval,8
+Trailhead Logistics,4/8/2026,ops@trailhead.com,email,Expansion inquiry
+UrbanGrid Transport,1/29/2026,ops@urbangrid.com,customerSentimentEval,7
